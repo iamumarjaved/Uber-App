@@ -1,6 +1,6 @@
 # Ride-Booking Application 🚗
 
-![Ride-Booking Banner](path_to_your_banner_image.jpg)
+![Ride-Booking Banner](app.png)
 
 Drawing inspiration from established platforms like Uber, our ride-booking application aims to offer users a seamless and efficient way to book rides on-demand. With a clear differentiation in vehicle options and transparent pricing models, we're here to revolutionize the way you travel!
 
