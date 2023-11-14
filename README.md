@@ -1,4 +1,4 @@
-# Ride-Booking Application 🚗
+# CAB Ride-Booking Application 🚗
 
 ![Ride-Booking Banner](app.png)
 
