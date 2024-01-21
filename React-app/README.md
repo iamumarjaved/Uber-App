@@ -11,8 +11,6 @@
 
 <!-- Screenshots -->
 
-### :camera: Screenshots
-
 <br />
 
 This is a React Native app clone of Cabify that uses Tailwind CSS and React Native Navigation libraries. The app provides similar features as Cabify such as booking a ride, tracking the ride, and payment processing. It also uses Google Maps to provide location-based services. However, due to the paid Google API key, the project has not been completed yet.
