@@ -1,6 +1,4 @@
 <div align="center">
-
-  <img src="https://user-images.githubusercontent.com/84333971/233428087-4de1f0a9-4198-441d-a7c6-b26260bae52d.png" alt="logo" width="350" height="auto" />
  
 
   # Cabify with REACT NATIVE!
@@ -15,16 +13,9 @@
 
 ### :camera: Screenshots
 
-<div style="display: inline_block" align="center"><br>
- <img align="center" alt="React"  width="auto" height="auto" src="https://user-images.githubusercontent.com/84333971/233428614-fb952317-a115-4964-b626-c9907c8e39ed.jpg">
-</div>
-
 <br />
 
-
-![](https://img.shields.io/badge/Uber-white?style=for-the-badge&logo=Uber&logoColor=black)
-
-This is a React Native app clone of Uber that uses Tailwind CSS and React Native Navigation libraries. The app provides similar features as Uber such as booking a ride, tracking the ride, and payment processing. It also uses Google Maps to provide location-based services. However, due to the paid Google API key, the project has not been completed yet.
+This is a React Native app clone of Cabify that uses Tailwind CSS and React Native Navigation libraries. The app provides similar features as Cabify such as booking a ride, tracking the ride, and payment processing. It also uses Google Maps to provide location-based services. However, due to the paid Google API key, the project has not been completed yet.
 
 This project is ideal for React Native developers who are interested in building a ride-sharing app using popular libraries and tools. The project is open-source, so developers can contribute to it and learn from it.
 
@@ -57,13 +48,13 @@ To run the app, you will need to have the following installed on your machine:
 Clone the project
 
 ```bash
-  git clone https://github.com/muddasir03/Uber-Clone-ReactNative.git
+  git clone https://github.com/iamumarjaved/Uber-App
 ```
 
 change directory
 
 ```bash
-  cd Uber-Clone
+  cd Cabify-Clone
 ```
 
 Install dependencies
@@ -108,4 +99,4 @@ expo publish
 
 Email ID- muddasarhussain739@gmail.com
 
-Project Link : https://github.com/muddasir03/Uber-Clone-ReactNative.git
+Project Link : https://github.com/muddasir03/Cabify-Clone-ReactNative.git
