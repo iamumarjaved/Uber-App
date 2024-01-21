@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/84333971/233428087-4de1f0a9-4198-441d-a7c6-b26260bae52d.png" alt="logo" width="350" height="auto" />
  
 
-  # Uber Clone with REACT NATIVE!
+  # Cabify with REACT NATIVE!
   
 </div>
 
